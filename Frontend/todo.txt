@@ -1,0 +1,3 @@
+1. Evaluation and responses are not overwritten, rather saved again and again.
+2. They can be done for single attempt only, for that we need to change schema so that in eval or response schema you can store saare ans ki evals and res in a single object, so that before saving we can query ki uss particular reg no ki entry is already there in db or not.   
+3. In getResult make route variable to get result according to the reg no.

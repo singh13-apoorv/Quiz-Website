@@ -1,0 +1,26 @@
+#formum{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.form-group{
+    margin:5vh;
+}
+#random{
+    text-align: center;
+    font-size: large;
+}
+.hide{
+    display: none;
+}
+#studentList{
+    margin-top:15vh;
+    margin-bottom:5vh;
+}
+.card-outer-div{
+    margin-bottom: 5vh;
+}
+
+#resdiv{
+    margin-top:8vh;
+}
